@@ -177,6 +177,6 @@
     }
   ],
   "tiles": [
-    "https://yuiseki.github.io/vector-tile-builder/zxy/{z}/{x}/{y}.pbf"
+    "https://ShogoHirasawa.github.io/vector-tile-builder2/zxy/{z}/{x}/{y}.pbf"
   ]
 }
